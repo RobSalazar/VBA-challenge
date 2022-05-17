@@ -10,7 +10,9 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Stock Market Analyst
 
-![stock Market](Images/stockmarket.jpg)
+<p align="center">
+  <img src="Images/stockmarket.jpg" />
+</p>
 
 ## Instructions
 
